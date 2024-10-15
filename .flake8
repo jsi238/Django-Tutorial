@@ -6,3 +6,6 @@ exclude =
     env,
     venv,
     virt-eb
+  ignore =   
+    F811,
+    F401
