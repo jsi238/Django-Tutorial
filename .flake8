@@ -5,4 +5,4 @@ exclude =
     __pycache__,
     env,
     venv,
-    virt-eb,
+    virt-eb
