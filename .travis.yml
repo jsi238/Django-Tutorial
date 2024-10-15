@@ -16,3 +16,7 @@ script:
 
 after_script:
   - coveralls
+
+env:
+global:
+  - COVERALLS_REPO_TOKEN=$COVERALLS_REPO_TOKEN
