@@ -4,7 +4,7 @@ python:
   - "3.11"
   
 install:
-  - pip install -r C:\Users\jorda\OneDrive\Documents\GitHub\Django-Tutorial\Django\mysite\requirements.txt
+  - pip install -r C:/Users/jorda/OneDrive/Documents/GitHub/Django-Tutorial/Django/mysite/requirements.txt
   
 before_script:
   - python manage.py migrate
